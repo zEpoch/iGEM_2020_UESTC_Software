@@ -1,0 +1,953 @@
+[{
+    "Id":"1",
+    "domainId":"00",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"5",
+    "domainId":"01",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"9",
+    "domainId":"02",
+    "count": "5",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"nucleic acid binding",
+    "4":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"14",
+    "domainId":"03",
+    "count": "4",
+    "domainFunction": [{
+    "0":"small molecule binding",
+    "1":"transferase activity",
+    "2":"tetrapyrrole binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"18",
+    "domainId":"04",
+    "count": "2",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"hydrolase activity"}]
+  },
+  {
+    "Id":"20",
+    "domainId":"05",
+    "count": "5",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"identical protein binding",
+    "2":"hydrolase activity",
+    "3":"nucleic acid binding",
+    "4":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"25",
+    "domainId":"06",
+    "count": "1",
+    "domainFunction": [{
+    "0":"hydrolase activity"}]
+  },
+  {
+    "Id":"26",
+    "domainId":"07",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"oxidoreductase activity",
+    "2":"hydrolase activity"}]
+  },
+  {
+    "Id":"29",
+    "domainId":"08",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"33",
+    "domainId":"09",
+    "count": "5",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"nucleic acid binding",
+    "4":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"38",
+    "domainId":"10",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"nucleic acid binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"41",
+    "domainId":"11",
+    "count": "2",
+    "domainFunction": [{
+    "0":"catalytic activity, acting on a protein",
+    "1":"hydrolase activity"}]
+  },
+  {
+    "Id":"43",
+    "domainId":"12",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"46",
+    "domainId":"13",
+    "count": "1",
+    "domainFunction": [{
+    "0":"hydrolase activity"}]
+  },
+  {
+    "Id":"47",
+    "domainId":"14",
+    "0":"transferase activity",
+    "1":"hydrolase activity"
+  },
+  {
+    "Id":"49",
+    "domainId":"15",
+    "count": "20",
+    "domainFunction": [{
+    "0":"RNA binding",
+    "1":"endopeptidase activity",
+    "2":"protein binding",
+    "3":"modification-dependent protein binding",
+    "4":"transition metal ion binding",
+    "5":"histone binding",
+    "6":"peptidase activity",
+    "7":"methylation-dependent protein binding",
+    "8":"catalytic activity, acting on a protein",
+    "9":"serine-type endopeptidase activity",
+    "10":"methylated histone binding",
+    "11":"carbohydrate binding",
+    "12":"hydrolase activity",
+    "13":"serine-type peptidase activity",
+    "14":"serine hydrolase activity",
+    "15":"mRNA binding",
+    "16":"nucleic acid binding",
+    "17":"hydrolase activity, acting on acid phosphorus-nitrogen bonds",
+    "18":"heterocyclic compound binding",
+    "19":"chromatin binding"}]
+  },
+  {
+    "Id":"69",
+    "domainId":"16",
+    "count": "5",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"nucleic acid binding",
+    "4":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"74",
+    "domainId":"17",
+    "count": "2",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity"}]
+  },
+  {
+    "Id":"76",
+    "domainId":"18",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"80",
+    "domainId":"19",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"84",
+    "domainId":"20",
+    "count": "1",
+    "domainFunction": [{
+    "0":"hydrolase activity"}]
+  },
+  {
+    "Id":"85",
+    "domainId":"21",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"identical protein binding"}]
+  },
+  {
+    "Id":"87",
+    "domainId":"22",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"DNA binding",
+    "3":"nucleic acid binding",
+    "4":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"92",
+    "domainId":"23",
+    "count": "2",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity"}]
+  },
+  {
+    "Id":"94",
+    "domainId":"24",
+    "count": "2",
+    "domainFunction": [{
+    "0":"oxidoreductase activity",
+    "1":"hydrolase activity"}]
+  },
+  {
+    "Id":"96",
+    "domainId":"25",
+    "count": "5",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"nucleic acid binding",
+    "4":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"101",
+    "domainId":"26",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"hydrolase activity",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"104",
+    "domainId":"27",
+    "count": "2",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"hydrolase activity"}]
+  },
+  {
+    "Id":"106",
+    "domainId":"28",
+    "count": "2",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"hydrolase activity"}]
+  },
+  {
+    "Id":"108",
+    "domainId":"29",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"112",
+    "domainId":"30",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"hydrolase activity",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"115",
+    "domainId":"31",
+    "count": "2",
+    "domainFunction": [{
+    "0":"isomerase activity",
+    "1":"lyase activity"}]
+  },
+  {
+    "Id":"117",
+    "domainId":"32",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"120",
+    "domainId":"33",
+    "count": "3",
+    "domainFunction": [{
+    "0":"hydrolase activity, acting on glycosyl bonds",
+    "1":"hydrolase activity",
+    "2":"hydrolase activity, hydrolyzing O-glycosyl compounds"}]
+  },
+  {
+    "Id":"123",
+    "domainId":"34",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"nucleic acid binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"126",
+    "domainId":"35",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"nucleic acid binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"129",
+    "domainId":"36",
+    "count": "2",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"identical protein binding"}]
+  },
+  {
+    "Id":"131",
+    "domainId":"37",
+    "count": "2",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"133",
+    "domainId":"38",
+    "count": "2",
+    "domainFunction": [{
+    "0":"oxidoreductase activity",
+    "1":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"135",
+    "domainId":"39",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"DNA binding",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"139",
+    "domainId":"40",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"nucleic acid binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"142",
+    "domainId":"41",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"145",
+    "domainId":"42",
+    "count": "2",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"147",
+    "domainId":"43",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"molecular function regulator",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"151",
+    "domainId":"44",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"155",
+    "domainId":"45",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"identical protein binding",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"159",
+    "domainId":"46",
+    "count": "2",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"161",
+    "domainId":"47",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"164",
+    "domainId":"48",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"oxidoreductase activity",
+    "2":"hydrolase activity"}]
+  },
+  {
+    "Id":"167",
+    "domainId":"49",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"170",
+    "domainId":"50",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"nucleic acid binding",
+    "4":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"175",
+    "domainId":"51",
+    "count": "1",
+    "domainFunction": [{
+    "0":"transferase activity"}]
+  },
+  {
+    "Id":"176",
+    "domainId":"52",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"hydrolase activity",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"179",
+    "domainId":"53",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity"}]
+  },
+  {
+    "Id":"182",
+    "domainId":"54",
+    "count": "7",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"molecular function regulator",
+    "2":"identical protein binding",
+    "3":"protein-containing complex binding",
+    "4":"molecular adaptor activity",
+    "5":"nucleic acid binding",
+    "6":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"189",
+    "domainId":"55",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"oxidoreductase activity",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"193",
+    "domainId":"56",
+    "count": "5",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"nucleic acid binding",
+    "4":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"198",
+    "domainId":"57",
+    "count": "7",
+    "domainFunction": [{
+    "0":"enzyme binding",
+    "1":"protein binding",
+    "2":"molecular function regulator",
+    "3":"identical protein binding",
+    "4":"protein-containing complex binding",
+    "5":"cytoskeletal protein binding",
+    "6":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"205",
+    "domainId":"58",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"209",
+    "domainId":"59",
+    "count": "2",
+    "domainFunction": [{
+    "0":"hydrolase activity",
+    "1":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"211",
+    "domainId":"60",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"215",
+    "domainId":"61",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"nucleic acid binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"218",
+    "domainId":"62",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"catalytic activity, acting on a protein",
+    "2":"hydrolase activity",
+    "3":"transferase activity, transferring phosphorus-containing groups"}]
+  },
+  {
+    "Id":"222",
+    "domainId":"63",
+    "count": "2",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"oxidoreductase activity"}]
+  },
+  {
+    "Id":"224",
+    "domainId":"64",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"228",
+    "domainId":"65",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"oxidoreductase activity",
+    "2":"oxidoreductase activity, acting on CH-OH group of donors",
+    "3":"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor"}]
+  },
+  {
+    "Id":"232",
+    "domainId":"66",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"nucleic acid binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"235",
+    "domainId":"67",
+    "count": "2",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"calcium ion binding"}]
+  },
+  {
+    "Id":"237",
+    "domainId":"68",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"DNA binding",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"241",
+    "domainId":"69",
+    "count": "1",
+    "domainFunction": [{
+    "0":"transferase activity"}]
+  },
+  {
+    "Id":"242",
+    "domainId":"70",
+    "count": "2",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"oxidoreductase activity"}]
+  },
+  {
+    "Id":"244",
+    "domainId":"71",
+    "count": "2",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"oxidoreductase activity"}]
+  },
+  {
+    "Id":"246",
+    "domainId":"72",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"nucleic acid binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"249",
+    "domainId":"73",
+    "count": "9",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"oxidoreductase activity",
+    "2":"transition metal ion binding",
+    "3":"iron ion binding",
+    "4":"tetrapyrrole binding",
+    "5":"heterocyclic compound binding",
+    "6":"heme binding",
+    "7":"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",
+    "8":"monooxygenase activity"}]
+  },
+  {
+    "Id":"258",
+    "domainId":"74",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"nucleic acid binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"261",
+    "domainId":"75",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"265",
+    "domainId":"76",
+    "count": "5",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"nucleic acid binding",
+    "4":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"270",
+    "domainId":"77",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"oxidoreductase activity",
+    "2":"hydrolase activity"}]
+  },
+  {
+    "Id":"273",
+    "domainId":"78",
+    "count": "2",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"275",
+    "domainId":"79",
+    "count": "6",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"DNA binding",
+    "4":"nucleic acid binding",
+    "5":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"281",
+    "domainId":"80",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"hydrolase activity, acting on glycosyl bonds",
+    "2":"hydrolase activity",
+    "3":"hydrolase activity, hydrolyzing O-glycosyl compounds"}]
+  },
+  {
+    "Id":"285",
+    "domainId":"81",
+    "count": "8",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"transition metal ion binding",
+    "3":"identical protein binding",
+    "4":"hydrolase activity",
+    "5":"DNA binding",
+    "6":"nucleic acid binding",
+    "7":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"293",
+    "domainId":"82",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"297",
+    "domainId":"83",
+    "count": "2",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity"}]
+  },
+  {
+    "Id":"299",
+    "domainId":"84",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"303",
+    "domainId":"85",
+    "count": "2",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"hydrolase activity"}]
+  },
+  {
+    "Id":"305",
+    "domainId":"86",
+    "count": "5",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"nucleic acid binding",
+    "4":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"310",
+    "domainId":"87",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"oxidoreductase activity",
+    "2":"hydrolase activity"}]
+  },
+  {
+    "Id":"313",
+    "domainId":"88",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"317",
+    "domainId":"89",
+    "count": "2",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity"}]
+  },
+  {
+    "Id":"319",
+    "domainId":"90",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"323",
+    "domainId":"91",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"327",
+    "domainId":"92",
+    "count": "3",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"oxidoreductase activity",
+    "2":"hydrolase activity"}]
+  },
+  {
+    "Id":"330",
+    "domainId":"93",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"identical protein binding",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"334",
+    "domainId":"94",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"nucleic acid binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"337",
+    "domainId":"95",
+    "count": "3",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"nucleic acid binding",
+    "2":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"340",
+    "domainId":"96",
+    "count": "4",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"identical protein binding",
+    "2":"nucleic acid binding",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"344",
+    "domainId":"97",
+    "count": "5",
+    "domainFunction": [{
+    "0":"protein binding",
+    "1":"hydrolase activity",
+    "2":"DNA binding",
+    "3":"nucleic acid binding",
+    "4":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"349",
+    "domainId":"98",
+    "count": "4",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"protein binding",
+    "2":"hydrolase activity",
+    "3":"heterocyclic compound binding"}]
+  },
+  {
+    "Id":"353",
+    "domainId":"99",
+    "count": "2",
+    "domainFunction": [{
+    "0":"transferase activity",
+    "1":"heterocyclic compound binding"}]
+}	
+]

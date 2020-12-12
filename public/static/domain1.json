@@ -1,0 +1,4514 @@
+[
+  {
+    "Id":"1",
+    "domainId":"00",
+    "domainFunction":"RNA binding",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"2",
+    "domainId":"00",
+    "domainFunction":"molecular transducer activity",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"3",
+    "domainId":"00",
+    "domainFunction":"enzyme binding",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"4",
+    "domainId":"00",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"5",
+    "domainId":"00",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"6",
+    "domainId":"00",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"7",
+    "domainId":"00",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"8",
+    "domainId":"00",
+    "domainFunction":"identical protein binding",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"9",
+    "domainId":"00",
+    "domainFunction":"anion binding",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"10",
+    "domainId":"00",
+    "domainFunction":"DNA binding",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"11",
+    "domainId":"00",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"12",
+    "domainId":"00",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"13",
+    "domainId":"00",
+    "domainFunction":"signaling receptor activity",
+    "domainName":"2pmzB07" 
+  },
+  {
+    "Id":"14",
+    "domainId":"01",
+    "domainFunction":"RNA binding",
+    "domainName":"2p4vA02" 
+  },
+  {
+    "Id":"15",
+    "domainId":"01",
+    "domainFunction":"enzyme binding",
+    "domainName":"2p4vA02" 
+  },
+  {
+    "Id":"16",
+    "domainId":"01",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2p4vA02" 
+  },
+  {
+    "Id":"17",
+    "domainId":"01",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2p4vA02" 
+  },
+  {
+    "Id":"18",
+    "domainId":"01",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2p4vA02" 
+  },
+  {
+    "Id":"19",
+    "domainId":"01",
+    "domainFunction":"identical protein binding",
+    "domainName":"2p4vA02" 
+  },
+  {
+    "Id":"20",
+    "domainId":"01",
+    "domainFunction":"DNA binding",
+    "domainName":"2p4vA02" 
+  },
+  {
+    "Id":"21",
+    "domainId":"01",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2p4vA02" 
+  },
+  {
+    "Id":"22",
+    "domainId":"02",
+    "domainFunction":"RNA binding",
+    "domainName":"3l2nA01" 
+  },
+  {
+    "Id":"23",
+    "domainId":"02",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3l2nA01" 
+  },
+  {
+    "Id":"24",
+    "domainId":"02",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"3l2nA01" 
+  },
+  {
+    "Id":"25",
+    "domainId":"02",
+    "domainFunction":"molecular function regulator",
+    "domainName":"3l2nA01" 
+  },
+  {
+    "Id":"26",
+    "domainId":"02",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3l2nA01" 
+  },
+  {
+    "Id":"27",
+    "domainId":"02",
+    "domainFunction":"identical protein binding",
+    "domainName":"3l2nA01" 
+  },
+  {
+    "Id":"28",
+    "domainId":"02",
+    "domainFunction":"DNA binding",
+    "domainName":"3l2nA01" 
+  },
+  {
+    "Id":"29",
+    "domainId":"02",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3l2nA01" 
+  },
+  {
+    "Id":"30",
+    "domainId":"03",
+    "domainFunction":"small molecule binding",
+    "domainName":"1tu9A00" 
+  },
+  {
+    "Id":"31",
+    "domainId":"03",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1tu9A00" 
+  },
+  {
+    "Id":"32",
+    "domainId":"03",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"1tu9A00" 
+  },
+  {
+    "Id":"33",
+    "domainId":"03",
+    "domainFunction":"lyase activity",
+    "domainName":"1tu9A00" 
+  },
+  {
+    "Id":"34",
+    "domainId":"03",
+    "domainFunction":"transporter activity",
+    "domainName":"1tu9A00" 
+  },
+  {
+    "Id":"35",
+    "domainId":"03",
+    "domainFunction":"oxygen carrier activity",
+    "domainName":"1tu9A00" 
+  },
+  {
+    "Id":"36",
+    "domainId":"03",
+    "domainFunction":"oxygen binding",
+    "domainName":"1tu9A00" 
+  },
+  {
+    "Id":"37",
+    "domainId":"03",
+    "domainFunction":"tetrapyrrole binding",
+    "domainName":"1tu9A00" 
+  },
+  {
+    "Id":"38",
+    "domainId":"03",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"1tu9A00" 
+  },
+  {
+    "Id":"39",
+    "domainId":"03",
+    "domainFunction":"heme binding",
+    "domainName":"1tu9A00" 
+  },
+  {
+    "Id":"40",
+    "domainId":"04",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":" " 
+  },
+  {
+    "Id":"41",
+    "domainId":"04",
+    "domainFunction":"hydrolase activity, acting on ester bonds",
+    "domainName":"2h3gX01" 
+  },
+  {
+    "Id":"42",
+    "domainId":"04",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"2h3gX01" 
+  },
+  {
+    "Id":"43",
+    "domainId":"04",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2h3gX01" 
+  },
+  {
+    "Id":"44",
+    "domainId":"05",
+    "domainFunction":"RNA binding",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"45",
+    "domainId":"05",
+    "domainFunction":"enzyme binding",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"46",
+    "domainId":"05",
+    "domainFunction":"signaling receptor binding",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"47",
+    "domainId":"05",
+    "domainFunction":"molecular function regulator",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"48",
+    "domainId":"05",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"49",
+    "domainId":"05",
+    "domainFunction":"identical protein binding",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"50",
+    "domainId":"05",
+    "domainFunction":"catalytic activity, acting on RNA",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"51",
+    "domainId":"05",
+    "domainFunction":"anion binding",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"52",
+    "domainId":"05",
+    "domainFunction":"DNA binding",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"53",
+    "domainId":"05",
+    "domainFunction":"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"54",
+    "domainId":"05",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"55",
+    "domainId":"05",
+    "domainFunction":"pyrophosphatase activity",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"56",
+    "domainId":"05",
+    "domainFunction":"protein dimerization activity",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"57",
+    "domainId":"05",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"58",
+    "domainId":"05",
+    "domainFunction":"hydrolase activity, acting on acid anhydrides",
+    "domainName":"1jo6A00" 
+  },
+  {
+    "Id":"59",
+    "domainId":"06",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1f9fA00" 
+  },
+  {
+    "Id":"60",
+    "domainId":"06",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"1f9fA00" 
+  },
+  {
+    "Id":"61",
+    "domainId":"06",
+    "domainFunction":"molecular function regulator",
+    "domainName":"1f9fA00" 
+  },
+  {
+    "Id":"62",
+    "domainId":"06",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"1f9fA00" 
+  },
+  {
+    "Id":"63",
+    "domainId":"06",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1f9fA00" 
+  },
+  {
+    "Id":"64",
+    "domainId":"07",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":" " 
+  },
+  {
+    "Id":"65",
+    "domainId":"07",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"8018702_1m" 
+  },
+  {
+    "Id":"66",
+    "domainId":"07",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"8018702_1m" 
+  },
+  {
+    "Id":"67",
+    "domainId":"07",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"8018702_1m" 
+  },
+  {
+    "Id":"68",
+    "domainId":"07",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"8018702_1m" 
+  },
+  {
+    "Id":"69",
+    "domainId":"08",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2p1aA00" 
+  },
+  {
+    "Id":"70",
+    "domainId":"08",
+    "domainFunction":"hydrolase activity, acting on ester bonds",
+    "domainName":"2p1aA00" 
+  },
+  {
+    "Id":"71",
+    "domainId":"08",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2p1aA00" 
+  },
+  {
+    "Id":"72",
+    "domainId":"09",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"4wjlA02" 
+  },
+  {
+    "Id":"73",
+    "domainId":"09",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"4wjlA02" 
+  },
+  {
+    "Id":"74",
+    "domainId":"09",
+    "domainFunction":"identical protein binding",
+    "domainName":"4wjlA02" 
+  },
+  {
+    "Id":"75",
+    "domainId":"09",
+    "domainFunction":"DNA binding",
+    "domainName":"4wjlA02" 
+  },
+  {
+    "Id":"76",
+    "domainId":"09",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"4wjlA02" 
+  },
+  {
+    "Id":"77",
+    "domainId":"10",
+    "domainFunction":"RNA binding",
+    "domainName":"2jbvA02" 
+  },
+  {
+    "Id":"78",
+    "domainId":"10",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2jbvA02" 
+  },
+  {
+    "Id":"79",
+    "domainId":"10",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"2jbvA02" 
+  },
+  {
+    "Id":"80",
+    "domainId":"10",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2jbvA02" 
+  },
+  {
+    "Id":"81",
+    "domainId":"10",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2jbvA02" 
+  },
+  {
+    "Id":"82",
+    "domainId":"10",
+    "domainFunction":"identical protein binding",
+    "domainName":"2jbvA02" 
+  },
+  {
+    "Id":"83",
+    "domainId":"10",
+    "domainFunction":"DNA binding",
+    "domainName":"2jbvA02" 
+  },
+  {
+    "Id":"84",
+    "domainId":"10",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2jbvA02" 
+  },
+  {
+    "Id":"85",
+    "domainId":"11",
+    "domainFunction":"hydrolase activity, acting on ester bonds",
+    "domainName":"1ymqA01" 
+  },
+  {
+    "Id":"86",
+    "domainId":"11",
+    "domainFunction":"peptidase activity",
+    "domainName":"1ymqA01" 
+  },
+  {
+    "Id":"87",
+    "domainId":"11",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"1ymqA01" 
+  },
+  {
+    "Id":"88",
+    "domainId":"11",
+    "domainFunction":"hydrolase activity, acting on glycosyl bonds",
+    "domainName":"1ymqA01" 
+  },
+  {
+    "Id":"89",
+    "domainId":"11",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1ymqA01" 
+  },
+  {
+    "Id":"90",
+    "domainId":"11",
+    "domainFunction":"hydrolase activity, hydrolyzing O-glycosyl compounds",
+    "domainName":"1ymqA01" 
+  },
+  {
+    "Id":"91",
+    "domainId":"12",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"4rdrA01" 
+  },
+  {
+    "Id":"92",
+    "domainId":"12",
+    "domainFunction":"molecular function regulator",
+    "domainName":"4rdrA01" 
+  },
+  {
+    "Id":"93",
+    "domainId":"12",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"4rdrA01" 
+  },
+  {
+    "Id":"94",
+    "domainId":"12",
+    "domainFunction":"identical protein binding",
+    "domainName":"4rdrA01" 
+  },
+  {
+    "Id":"95",
+    "domainId":"12",
+    "domainFunction":"DNA binding",
+    "domainName":"4rdrA01" 
+  },
+  {
+    "Id":"96",
+    "domainId":"12",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"4rdrA01" 
+  },
+  {
+    "Id":"97",
+    "domainId":"13",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3ioqA00" 
+  },
+  {
+    "Id":"98",
+    "domainId":"13",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"3ioqA00" 
+  },
+  {
+    "Id":"99",
+    "domainId":"13",
+    "domainFunction":"peptidase activity",
+    "domainName":"3ioqA00" 
+  },
+  {
+    "Id":"100",
+    "domainId":"13",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3ioqA00" 
+  },
+  {
+    "Id":"101",
+    "domainId":"13",
+    "domainFunction":"hydrolase activity, acting on glycosyl bonds",
+    "domainName":"3ioqA00" 
+  },
+  {
+    "Id":"102",
+    "domainId":"13",
+    "domainFunction":"hydrolase activity, hydrolyzing O-glycosyl compounds",
+    "domainName":"3ioqA00" 
+  },
+  {
+    "Id":"103",
+    "domainId":"14",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2iqjA00" 
+  },
+  {
+    "Id":"104",
+    "domainId":"14",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2iqjA00" 
+  },
+  {
+    "Id":"105",
+    "domainId":"14",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2iqjA00" 
+  },
+  {
+    "Id":"106",
+    "domainId":"15",
+    "domainFunction":"RNA binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"107",
+    "domainId":"15",
+    "domainFunction":"endopeptidase activity",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"108",
+    "domainId":"15",
+    "domainFunction":"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"109",
+    "domainId":"15",
+    "domainFunction":"hydrolase activity, acting on ester bonds",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"110",
+    "domainId":"15",
+    "domainFunction":"isomerase activity",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"111",
+    "domainId":"15",
+    "domainFunction":"modification-dependent protein binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"112",
+    "domainId":"15",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"113",
+    "domainId":"15",
+    "domainFunction":"racemase and epimerase activity",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"114",
+    "domainId":"15",
+    "domainFunction":"histone binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"115",
+    "domainId":"15",
+    "domainFunction":"peptidase activity",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"116",
+    "domainId":"15",
+    "domainFunction":"racemase and epimerase activity, acting on carbohydrates and derivatives",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"117",
+    "domainId":"15",
+    "domainFunction":"methylation-dependent protein binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"118",
+    "domainId":"15",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"119",
+    "domainId":"15",
+    "domainFunction":"serine-type endopeptidase activity",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"120",
+    "domainId":"15",
+    "domainFunction":"methylated histone binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"121",
+    "domainId":"15",
+    "domainFunction":"carbohydrate binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"122",
+    "domainId":"15",
+    "domainFunction":"zinc ion binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"123",
+    "domainId":"15",
+    "domainFunction":"cellulase activity",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"124",
+    "domainId":"15",
+    "domainFunction":"hydrolase activity, acting on glycosyl bonds",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"125",
+    "domainId":"15",
+    "domainFunction":"polysaccharide binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"126",
+    "domainId":"15",
+    "domainFunction":"sulfuric ester hydrolase activity",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"127",
+    "domainId":"15",
+    "domainFunction":"serine-type peptidase activity",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"128",
+    "domainId":"15",
+    "domainFunction":"serine hydrolase activity",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"129",
+    "domainId":"15",
+    "domainFunction":"mRNA binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"130",
+    "domainId":"15",
+    "domainFunction":"GDP-mannose 3,5-epimerase activity",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"131",
+    "domainId":"15",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"132",
+    "domainId":"15",
+    "domainFunction":"hydrolase activity, acting on acid phosphorus-nitrogen bonds",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"133",
+    "domainId":"15",
+    "domainFunction":"hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"134",
+    "domainId":"15",
+    "domainFunction":"beta-lactamase activity",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"135",
+    "domainId":"15",
+    "domainFunction":"chromatin binding",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"136",
+    "domainId":"15",
+    "domainFunction":"hydrolase activity, hydrolyzing O-glycosyl compounds",
+    "domainName":"8092468_6v" 
+  },
+  {
+    "Id":"137",
+    "domainId":"16",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3bnvA00" 
+  },
+  {
+    "Id":"138",
+    "domainId":"16",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"3bnvA00" 
+  },
+  {
+    "Id":"139",
+    "domainId":"16",
+    "domainFunction":"molecular function regulator",
+    "domainName":"3bnvA00" 
+  },
+  {
+    "Id":"140",
+    "domainId":"16",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3bnvA00" 
+  },
+  {
+    "Id":"141",
+    "domainId":"16",
+    "domainFunction":"identical protein binding",
+    "domainName":"3bnvA00" 
+  },
+  {
+    "Id":"142",
+    "domainId":"16",
+    "domainFunction":"DNA binding",
+    "domainName":"3bnvA00" 
+  },
+  {
+    "Id":"143",
+    "domainId":"16",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3bnvA00" 
+  },
+  {
+    "Id":"144",
+    "domainId":"16",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"3bnvA00" 
+  },
+  {
+    "Id":"145",
+    "domainId":"17",
+    "domainFunction":"signaling receptor binding",
+    "domainName":"2r56H01" 
+  },
+  {
+    "Id":"146",
+    "domainId":"17",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2r56H01" 
+  },
+  {
+    "Id":"147",
+    "domainId":"17",
+    "domainFunction":"peptidase activity",
+    "domainName":"2r56H01" 
+  },
+  {
+    "Id":"148",
+    "domainId":"17",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2r56H01" 
+  },
+  {
+    "Id":"149",
+    "domainId":"17",
+    "domainFunction":"identical protein binding",
+    "domainName":"2r56H01" 
+  },
+  {
+    "Id":"150",
+    "domainId":"17",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2r56H01" 
+  },
+  {
+    "Id":"151",
+    "domainId":"18",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2cokA00" 
+  },
+  {
+    "Id":"152",
+    "domainId":"18",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2cokA00" 
+  },
+  {
+    "Id":"153",
+    "domainId":"18",
+    "domainFunction":"identical protein binding",
+    "domainName":"2cokA00" 
+  },
+  {
+    "Id":"154",
+    "domainId":"18",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2cokA00" 
+  },
+  {
+    "Id":"155",
+    "domainId":"18",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"2cokA00" 
+  },
+  {
+    "Id":"156",
+    "domainId":"19",
+    "domainFunction":"RNA binding",
+    "domainName":"1hcqA00" 
+  },
+  {
+    "Id":"157",
+    "domainId":"19",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1hcqA00" 
+  },
+  {
+    "Id":"158",
+    "domainId":"19",
+    "domainFunction":"molecular function regulator",
+    "domainName":"1hcqA00" 
+  },
+  {
+    "Id":"159",
+    "domainId":"19",
+    "domainFunction":"identical protein binding",
+    "domainName":"1hcqA00" 
+  },
+  {
+    "Id":"160",
+    "domainId":"19",
+    "domainFunction":"DNA binding",
+    "domainName":"1hcqA00" 
+  },
+  {
+    "Id":"161",
+    "domainId":"19",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1hcqA00" 
+  },
+  {
+    "Id":"162",
+    "domainId":"20",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3huuA02" 
+  },
+  {
+    "Id":"163",
+    "domainId":"20",
+    "domainFunction":"hydrolase activity, acting on ester bonds",
+    "domainName":"3huuA02" 
+  },
+  {
+    "Id":"164",
+    "domainId":"20",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"3huuA02" 
+  },
+  {
+    "Id":"165",
+    "domainId":"20",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3huuA02" 
+  },
+  {
+    "Id":"166",
+    "domainId":"20",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3huuA02" 
+  },
+  {
+    "Id":"167",
+    "domainId":"21",
+    "domainFunction":"signaling receptor binding",
+    "domainName":"1s94B00" 
+  },
+  {
+    "Id":"168",
+    "domainId":"21",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1s94B00" 
+  },
+  {
+    "Id":"169",
+    "domainId":"21",
+    "domainFunction":"molecular function regulator",
+    "domainName":"1s94B00" 
+  },
+  {
+    "Id":"170",
+    "domainId":"21",
+    "domainFunction":"identical protein binding",
+    "domainName":"1s94B00" 
+  },
+  {
+    "Id":"171",
+    "domainId":"21",
+    "domainFunction":"lyase activity",
+    "domainName":"1s94B00" 
+  },
+  {
+    "Id":"172",
+    "domainId":"21",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"1s94B00" 
+  },
+  {
+    "Id":"173",
+    "domainId":"21",
+    "domainFunction":"cytoskeletal protein binding",
+    "domainName":"1s94B00" 
+  },
+  {
+    "Id":"174",
+    "domainId":"21",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1s94B00" 
+  },
+  {
+    "Id":"175",
+    "domainId":"22",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"5l9sA01" 
+  },
+  {
+    "Id":"176",
+    "domainId":"22",
+    "domainFunction":"molecular function regulator",
+    "domainName":"5l9sA01" 
+  },
+  {
+    "Id":"177",
+    "domainId":"22",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"5l9sA01" 
+  },
+  {
+    "Id":"178",
+    "domainId":"22",
+    "domainFunction":"identical protein binding",
+    "domainName":"5l9sA01" 
+  },
+  {
+    "Id":"179",
+    "domainId":"22",
+    "domainFunction":"DNA binding",
+    "domainName":"5l9sA01" 
+  },
+  {
+    "Id":"180",
+    "domainId":"22",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"5l9sA01" 
+  },
+  {
+    "Id":"181",
+    "domainId":"23",
+    "domainFunction":"molecular function regulator",
+    "domainName":"3odtA00" 
+  },
+  {
+    "Id":"182",
+    "domainId":"23",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3odtA00" 
+  },
+  {
+    "Id":"183",
+    "domainId":"23",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"3odtA00" 
+  },
+  {
+    "Id":"184",
+    "domainId":"23",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3odtA00" 
+  },
+  {
+    "Id":"185",
+    "domainId":"24",
+    "domainFunction":"electron transfer activity",
+    "domainName":"1palA00" 
+  },
+  {
+    "Id":"186",
+    "domainId":"24",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1palA00" 
+  },
+  {
+    "Id":"187",
+    "domainId":"24",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"1palA00" 
+  },
+  {
+    "Id":"188",
+    "domainId":"24",
+    "domainFunction":"hydrolase activity, acting on glycosyl bonds",
+    "domainName":"1palA00" 
+  },
+  {
+    "Id":"189",
+    "domainId":"24",
+    "domainFunction":"hydrolase activity, hydrolyzing O-glycosyl compounds",
+    "domainName":"1palA00" 
+  },
+  {
+    "Id":"190",
+    "domainId":"25",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1dgjA02" 
+  },
+  {
+    "Id":"191",
+    "domainId":"25",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"1dgjA02" 
+  },
+  {
+    "Id":"192",
+    "domainId":"25",
+    "domainFunction":"identical protein binding",
+    "domainName":"1dgjA02" 
+  },
+  {
+    "Id":"193",
+    "domainId":"25",
+    "domainFunction":"DNA binding",
+    "domainName":"1dgjA02" 
+  },
+  {
+    "Id":"194",
+    "domainId":"25",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1dgjA02" 
+  },
+  {
+    "Id":"195",
+    "domainId":"26",
+    "domainFunction":"RNA binding",
+    "domainName":"8025171_1e" 
+  },
+  {
+    "Id":"196",
+    "domainId":"26",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"8025171_1e" 
+  },
+  {
+    "Id":"197",
+    "domainId":"26",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"8025171_1e" 
+  },
+  {
+    "Id":"198",
+    "domainId":"26",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"8025171_1e" 
+  },
+  {
+    "Id":"199",
+    "domainId":"26",
+    "domainFunction":"identical protein binding",
+    "domainName":"8025171_1e" 
+  },
+  {
+    "Id":"200",
+    "domainId":"26",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"8025171_1e" 
+  },
+  {
+    "Id":"201",
+    "domainId":"26",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"8025171_1e" 
+  },
+  {
+    "Id":"202",
+    "domainId":"27",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1k2aA00" 
+  },
+  {
+    "Id":"203",
+    "domainId":"27",
+    "domainFunction":"identical protein binding",
+    "domainName":"1k2aA00" 
+  },
+  {
+    "Id":"204",
+    "domainId":"27",
+    "domainFunction":"lyase activity",
+    "domainName":"1k2aA00" 
+  },
+  {
+    "Id":"205",
+    "domainId":"27",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1k2aA00" 
+  },
+  {
+    "Id":"206",
+    "domainId":"28",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"4uy1A00" 
+  },
+  {
+    "Id":"207",
+    "domainId":"28",
+    "domainFunction":"hydrolase activity, acting on ester bonds",
+    "domainName":"4uy1A00" 
+  },
+  {
+    "Id":"208",
+    "domainId":"28",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"4uy1A00" 
+  },
+  {
+    "Id":"209",
+    "domainId":"28",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"4uy1A00" 
+  },
+  {
+    "Id":"210",
+    "domainId":"28",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"4uy1A00" 
+  },
+  {
+    "Id":"211",
+    "domainId":"29",
+    "domainFunction":"RNA binding",
+    "domainName":"1sziA02" 
+  },
+  {
+    "Id":"212",
+    "domainId":"29",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1sziA02" 
+  },
+  {
+    "Id":"213",
+    "domainId":"29",
+    "domainFunction":"molecular function regulator",
+    "domainName":"1sziA02" 
+  },
+  {
+    "Id":"214",
+    "domainId":"29",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"1sziA02" 
+  },
+  {
+    "Id":"215",
+    "domainId":"29",
+    "domainFunction":"identical protein binding",
+    "domainName":"1sziA02" 
+  },
+  {
+    "Id":"216",
+    "domainId":"29",
+    "domainFunction":"DNA binding",
+    "domainName":"1sziA02" 
+  },
+  {
+    "Id":"217",
+    "domainId":"29",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1sziA02" 
+  },
+  {
+    "Id":"218",
+    "domainId":"30",
+    "domainFunction":"RNA binding",
+    "domainName":"1avuA00" 
+  },
+  {
+    "Id":"219",
+    "domainId":"30",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1avuA00" 
+  },
+  {
+    "Id":"220",
+    "domainId":"30",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"1avuA00" 
+  },
+  {
+    "Id":"221",
+    "domainId":"30",
+    "domainFunction":"identical protein binding",
+    "domainName":"1avuA00" 
+  },
+  {
+    "Id":"222",
+    "domainId":"30",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1avuA00" 
+  },
+  {
+    "Id":"223",
+    "domainId":"31",
+    "domainFunction":"racemase and epimerase activity, acting on amino acids and derivatives",
+    "domainName":"3bsmA02" 
+  },
+  {
+    "Id":"224",
+    "domainId":"31",
+    "domainFunction":"small molecule binding",
+    "domainName":"3bsmA02" 
+  },
+  {
+    "Id":"225",
+    "domainId":"31",
+    "domainFunction":"vitamin B6 binding",
+    "domainName":"3bsmA02" 
+  },
+  {
+    "Id":"226",
+    "domainId":"31",
+    "domainFunction":"isomerase activity",
+    "domainName":"3bsmA02" 
+  },
+  {
+    "Id":"227",
+    "domainId":"31",
+    "domainFunction":"racemase and epimerase activity",
+    "domainName":"3bsmA02" 
+  },
+  {
+    "Id":"228",
+    "domainId":"31",
+    "domainFunction":"pyridoxal phosphate binding",
+    "domainName":"3bsmA02" 
+  },
+  {
+    "Id":"229",
+    "domainId":"31",
+    "domainFunction":"vitamin binding",
+    "domainName":"3bsmA02" 
+  },
+  {
+    "Id":"230",
+    "domainId":"31",
+    "domainFunction":"lyase activity",
+    "domainName":"3bsmA02" 
+  },
+  {
+    "Id":"231",
+    "domainId":"31",
+    "domainFunction":"carbon-carbon lyase activity",
+    "domainName":"3bsmA02" 
+  },
+  {
+    "Id":"232",
+    "domainId":"31",
+    "domainFunction":"anion binding",
+    "domainName":"3bsmA02" 
+  },
+  {
+    "Id":"233",
+    "domainId":"32",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"5c66A00" 
+  },
+  {
+    "Id":"234",
+    "domainId":"32",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"5c66A00" 
+  },
+  {
+    "Id":"235",
+    "domainId":"32",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"5c66A00" 
+  },
+  {
+    "Id":"236",
+    "domainId":"32",
+    "domainFunction":"zinc ion binding",
+    "domainName":"5c66A00" 
+  },
+  {
+    "Id":"237",
+    "domainId":"32",
+    "domainFunction":"identical protein binding",
+    "domainName":"5c66A00" 
+  },
+  {
+    "Id":"238",
+    "domainId":"32",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"5c66A00" 
+  },
+  {
+    "Id":"239",
+    "domainId":"33",
+    "domainFunction":"lyase activity",
+    "domainName":"2v8zA00" 
+  },
+  {
+    "Id":"240",
+    "domainId":"33",
+    "domainFunction":"hydrolase activity, acting on glycosyl bonds",
+    "domainName":"2v8zA00" 
+  },
+  {
+    "Id":"241",
+    "domainId":"33",
+    "domainFunction":"hydrolase activity, hydrolyzing O-glycosyl compounds",
+    "domainName":"2v8zA00" 
+  },
+  {
+    "Id":"242",
+    "domainId":"34",
+    "domainFunction":"RNA binding",
+    "domainName":"3fn0H01" 
+  },
+  {
+    "Id":"243",
+    "domainId":"34",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3fn0H01" 
+  },
+  {
+    "Id":"244",
+    "domainId":"34",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"3fn0H01" 
+  },
+  {
+    "Id":"245",
+    "domainId":"34",
+    "domainFunction":"molecular function regulator",
+    "domainName":"3fn0H01" 
+  },
+  {
+    "Id":"246",
+    "domainId":"34",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3fn0H01" 
+  },
+  {
+    "Id":"247",
+    "domainId":"34",
+    "domainFunction":"identical protein binding",
+    "domainName":"3fn0H01" 
+  },
+  {
+    "Id":"248",
+    "domainId":"34",
+    "domainFunction":"DNA binding",
+    "domainName":"3fn0H01" 
+  },
+  {
+    "Id":"249",
+    "domainId":"34",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3fn0H01" 
+  },
+  {
+    "Id":"250",
+    "domainId":"35",
+    "domainFunction":"RNA binding",
+    "domainName":"5dvbA00" 
+  },
+  {
+    "Id":"251",
+    "domainId":"35",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"5dvbA00" 
+  },
+  {
+    "Id":"252",
+    "domainId":"35",
+    "domainFunction":"molecular function regulator",
+    "domainName":"5dvbA00" 
+  },
+  {
+    "Id":"253",
+    "domainId":"35",
+    "domainFunction":"identical protein binding",
+    "domainName":"5dvbA00" 
+  },
+  {
+    "Id":"254",
+    "domainId":"35",
+    "domainFunction":"DNA binding",
+    "domainName":"5dvbA00" 
+  },
+  {
+    "Id":"255",
+    "domainId":"35",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"5dvbA00" 
+  },
+  {
+    "Id":"256",
+    "domainId":"36",
+    "domainFunction":"RNA binding",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"257",
+    "domainId":"36",
+    "domainFunction":"molecular transducer activity",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"258",
+    "domainId":"36",
+    "domainFunction":"enzyme binding",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"259",
+    "domainId":"36",
+    "domainFunction":"signaling receptor binding",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"260",
+    "domainId":"36",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"261",
+    "domainId":"36",
+    "domainFunction":"identical protein binding",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"262",
+    "domainId":"36",
+    "domainFunction":"calcium ion binding",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"263",
+    "domainId":"36",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"264",
+    "domainId":"36",
+    "domainFunction":"cytoskeletal protein binding",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"265",
+    "domainId":"36",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"266",
+    "domainId":"36",
+    "domainFunction":"transmembrane signaling receptor activity",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"267",
+    "domainId":"36",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"268",
+    "domainId":"36",
+    "domainFunction":"signaling receptor activity",
+    "domainName":"2n3gA00" 
+  },
+  {
+    "Id":"269",
+    "domainId":"37",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3fd3A02" 
+  },
+  {
+    "Id":"270",
+    "domainId":"37",
+    "domainFunction":"molecular function regulator",
+    "domainName":"3fd3A02" 
+  },
+  {
+    "Id":"271",
+    "domainId":"37",
+    "domainFunction":"identical protein binding",
+    "domainName":"3fd3A02" 
+  },
+  {
+    "Id":"272",
+    "domainId":"37",
+    "domainFunction":"DNA binding",
+    "domainName":"3fd3A02" 
+  },
+  {
+    "Id":"273",
+    "domainId":"37",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3fd3A02" 
+  },
+  {
+    "Id":"274",
+    "domainId":"38",
+    "domainFunction":"electron transfer activity",
+    "domainName":"4k2xA01" 
+  },
+  {
+    "Id":"275",
+    "domainId":"38",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"4k2xA01" 
+  },
+  {
+    "Id":"276",
+    "domainId":"38",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"4k2xA01" 
+  },
+  {
+    "Id":"277",
+    "domainId":"38",
+    "domainFunction":"tetrapyrrole binding",
+    "domainName":"4k2xA01" 
+  },
+  {
+    "Id":"278",
+    "domainId":"38",
+    "domainFunction":"heme binding",
+    "domainName":"4k2xA01" 
+  },
+  {
+    "Id":"279",
+    "domainId":"39",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2q24A00" 
+  },
+  {
+    "Id":"280",
+    "domainId":"39",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2q24A00" 
+  },
+  {
+    "Id":"281",
+    "domainId":"39",
+    "domainFunction":"identical protein binding",
+    "domainName":"2q24A00" 
+  },
+  {
+    "Id":"282",
+    "domainId":"39",
+    "domainFunction":"DNA binding",
+    "domainName":"2q24A00" 
+  },
+  {
+    "Id":"283",
+    "domainId":"39",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2q24A00" 
+  },
+  {
+    "Id":"284",
+    "domainId":"40",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3dmyA03" 
+  },
+  {
+    "Id":"285",
+    "domainId":"40",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"3dmyA03" 
+  },
+  {
+    "Id":"286",
+    "domainId":"40",
+    "domainFunction":"molecular function regulator",
+    "domainName":"3dmyA03" 
+  },
+  {
+    "Id":"287",
+    "domainId":"40",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3dmyA03" 
+  },
+  {
+    "Id":"288",
+    "domainId":"40",
+    "domainFunction":"identical protein binding",
+    "domainName":"3dmyA03" 
+  },
+  {
+    "Id":"289",
+    "domainId":"40",
+    "domainFunction":"DNA binding",
+    "domainName":"3dmyA03" 
+  },
+  {
+    "Id":"290",
+    "domainId":"40",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3dmyA03" 
+  },
+  {
+    "Id":"291",
+    "domainId":"41",
+    "domainFunction":"enzyme binding",
+    "domainName":"2qywA00" 
+  },
+  {
+    "Id":"292",
+    "domainId":"41",
+    "domainFunction":"signaling receptor binding",
+    "domainName":"2qywA00" 
+  },
+  {
+    "Id":"293",
+    "domainId":"41",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2qywA00" 
+  },
+  {
+    "Id":"294",
+    "domainId":"41",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2qywA00" 
+  },
+  {
+    "Id":"295",
+    "domainId":"41",
+    "domainFunction":"identical protein binding",
+    "domainName":"2qywA00" 
+  },
+  {
+    "Id":"296",
+    "domainId":"41",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"2qywA00" 
+  },
+  {
+    "Id":"297",
+    "domainId":"41",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2qywA00" 
+  },
+  {
+    "Id":"298",
+    "domainId":"41",
+    "domainFunction":"oxidoreductase activity, acting on the CH-CH group of donors",
+    "domainName":"2qywA00" 
+  },
+  {
+    "Id":"299",
+    "domainId":"42",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"5dhvA00" 
+  },
+  {
+    "Id":"300",
+    "domainId":"42",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"5dhvA00" 
+  },
+  {
+    "Id":"301",
+    "domainId":"42",
+    "domainFunction":"molecular function regulator",
+    "domainName":"5dhvA00" 
+  },
+  {
+    "Id":"302",
+    "domainId":"42",
+    "domainFunction":"DNA binding",
+    "domainName":"5dhvA00" 
+  },
+  {
+    "Id":"303",
+    "domainId":"42",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"5dhvA00" 
+  },
+  {
+    "Id":"304",
+    "domainId":"43",
+    "domainFunction":"signaling receptor binding",
+    "domainName":"1wxlA00" 
+  },
+  {
+    "Id":"305",
+    "domainId":"43",
+    "domainFunction":"molecular function regulator",
+    "domainName":"1wxlA00" 
+  },
+  {
+    "Id":"306",
+    "domainId":"43",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"1wxlA00" 
+  },
+  {
+    "Id":"307",
+    "domainId":"43",
+    "domainFunction":"identical protein binding",
+    "domainName":"1wxlA00" 
+  },
+  {
+    "Id":"308",
+    "domainId":"43",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"1wxlA00" 
+  },
+  {
+    "Id":"309",
+    "domainId":"43",
+    "domainFunction":"DNA binding",
+    "domainName":"1wxlA00" 
+  },
+  {
+    "Id":"310",
+    "domainId":"43",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1wxlA00" 
+  },
+  {
+    "Id":"311",
+    "domainId":"44",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2di4A00" 
+  },
+  {
+    "Id":"312",
+    "domainId":"44",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2di4A00" 
+  },
+  {
+    "Id":"313",
+    "domainId":"44",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2di4A00" 
+  },
+  {
+    "Id":"314",
+    "domainId":"44",
+    "domainFunction":"identical protein binding",
+    "domainName":"2di4A00" 
+  },
+  {
+    "Id":"315",
+    "domainId":"44",
+    "domainFunction":"DNA binding",
+    "domainName":"2di4A00" 
+  },
+  {
+    "Id":"316",
+    "domainId":"44",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2di4A00" 
+  },
+  {
+    "Id":"317",
+    "domainId":"44",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"2di4A00" 
+  },
+  {
+    "Id":"318",
+    "domainId":"45",
+    "domainFunction":"RNA binding",
+    "domainName":"8029491_1u" 
+  },
+  {
+    "Id":"319",
+    "domainId":"45",
+    "domainFunction":"enzyme binding",
+    "domainName":"8029491_1u" 
+  },
+  {
+    "Id":"320",
+    "domainId":"45",
+    "domainFunction":"molecular function regulator",
+    "domainName":"8029491_1u" 
+  },
+  {
+    "Id":"321",
+    "domainId":"45",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"8029491_1u" 
+  },
+  {
+    "Id":"322",
+    "domainId":"45",
+    "domainFunction":"identical protein binding",
+    "domainName":"8029491_1u" 
+  },
+  {
+    "Id":"323",
+    "domainId":"45",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"8029491_1u" 
+  },
+  {
+    "Id":"324",
+    "domainId":"45",
+    "domainFunction":"DNA binding",
+    "domainName":"8029491_1u" 
+  },
+  {
+    "Id":"325",
+    "domainId":"45",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"8029491_1u" 
+  },
+  {
+    "Id":"326",
+    "domainId":"45",
+    "domainFunction":"structural molecule activity",
+    "domainName":"8029491_1u" 
+  },
+  {
+    "Id":"327",
+    "domainId":"45",
+    "domainFunction":"protein dimerization activity",
+    "domainName":"8029491_1u" 
+  },
+  {
+    "Id":"328",
+    "domainId":"46",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"4kc3B02" 
+  },
+  {
+    "Id":"329",
+    "domainId":"46",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"4kc3B02" 
+  },
+  {
+    "Id":"330",
+    "domainId":"46",
+    "domainFunction":"molecular function regulator",
+    "domainName":"4kc3B02" 
+  },
+  {
+    "Id":"331",
+    "domainId":"46",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"4kc3B02" 
+  },
+  {
+    "Id":"332",
+    "domainId":"46",
+    "domainFunction":"anion binding",
+    "domainName":"4kc3B02" 
+  },
+  {
+    "Id":"333",
+    "domainId":"46",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"4kc3B02" 
+  },
+  {
+    "Id":"334",
+    "domainId":"47",
+    "domainFunction":"molecular transducer activity",
+    "domainName":"2aheA01" 
+  },
+  {
+    "Id":"335",
+    "domainId":"47",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2aheA01" 
+  },
+  {
+    "Id":"336",
+    "domainId":"47",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2aheA01" 
+  },
+  {
+    "Id":"337",
+    "domainId":"47",
+    "domainFunction":"identical protein binding",
+    "domainName":"2aheA01" 
+  },
+  {
+    "Id":"338",
+    "domainId":"47",
+    "domainFunction":"anion binding",
+    "domainName":"2aheA01" 
+  },
+  {
+    "Id":"339",
+    "domainId":"47",
+    "domainFunction":"DNA binding",
+    "domainName":"2aheA01" 
+  },
+  {
+    "Id":"340",
+    "domainId":"47",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2aheA01" 
+  },
+  {
+    "Id":"341",
+    "domainId":"47",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"2aheA01" 
+  },
+  {
+    "Id":"342",
+    "domainId":"47",
+    "domainFunction":"signaling receptor activity",
+    "domainName":"2aheA01" 
+  },
+  {
+    "Id":"343",
+    "domainId":"48",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1jdsA00" 
+  },
+  {
+    "Id":"344",
+    "domainId":"48",
+    "domainFunction":"lyase activity",
+    "domainName":"1jdsA00" 
+  },
+  {
+    "Id":"345",
+    "domainId":"48",
+    "domainFunction":"hydrolase activity, acting on glycosyl bonds",
+    "domainName":"1jdsA00" 
+  },
+  {
+    "Id":"346",
+    "domainId":"48",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1jdsA00" 
+  },
+  {
+    "Id":"347",
+    "domainId":"49",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3bfjA02" 
+  },
+  {
+    "Id":"348",
+    "domainId":"49",
+    "domainFunction":"hydrolase activity, acting on ester bonds",
+    "domainName":"3bfjA02" 
+  },
+  {
+    "Id":"349",
+    "domainId":"49",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"3bfjA02" 
+  },
+  {
+    "Id":"350",
+    "domainId":"49",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3bfjA02" 
+  },
+  {
+    "Id":"351",
+    "domainId":"49",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3bfjA02" 
+  },
+  {
+    "Id":"352",
+    "domainId":"50",
+    "domainFunction":"RNA binding",
+    "domainName":"8030546_1u" 
+  },
+  {
+    "Id":"353",
+    "domainId":"50",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"8030546_1u" 
+  },
+  {
+    "Id":"354",
+    "domainId":"50",
+    "domainFunction":"molecular function regulator",
+    "domainName":"8030546_1u" 
+  },
+  {
+    "Id":"355",
+    "domainId":"50",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"8030546_1u" 
+  },
+  {
+    "Id":"356",
+    "domainId":"50",
+    "domainFunction":"catalytic activity, acting on RNA",
+    "domainName":"8030546_1u" 
+  },
+  {
+    "Id":"357",
+    "domainId":"50",
+    "domainFunction":"DNA binding",
+    "domainName":"8030546_1u" 
+  },
+  {
+    "Id":"358",
+    "domainId":"50",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"8030546_1u" 
+  },
+  {
+    "Id":"359",
+    "domainId":"50",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"8030546_1u" 
+  },
+  {
+    "Id":"360",
+    "domainId":"51",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2b51A01" 
+  },
+  {
+    "Id":"361",
+    "domainId":"51",
+    "domainFunction":"ligase activity",
+    "domainName":"2b51A01" 
+  },
+  {
+    "Id":"362",
+    "domainId":"51",
+    "domainFunction":"identical protein binding",
+    "domainName":"2b51A01" 
+  },
+  {
+    "Id":"363",
+    "domainId":"52",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3hrdC02" 
+  },
+  {
+    "Id":"364",
+    "domainId":"52",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3hrdC02" 
+  },
+  {
+    "Id":"365",
+    "domainId":"52",
+    "domainFunction":"lyase activity",
+    "domainName":"3hrdC02" 
+  },
+  {
+    "Id":"366",
+    "domainId":"52",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3hrdC02" 
+  },
+  {
+    "Id":"367",
+    "domainId":"53",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1oaqL00" 
+  },
+  {
+    "Id":"368",
+    "domainId":"53",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"1oaqL00" 
+  },
+  {
+    "Id":"369",
+    "domainId":"53",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"1oaqL00" 
+  },
+  {
+    "Id":"370",
+    "domainId":"53",
+    "domainFunction":"identical protein binding",
+    "domainName":"1oaqL00" 
+  },
+  {
+    "Id":"371",
+    "domainId":"53",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1oaqL00" 
+  },
+  {
+    "Id":"372",
+    "domainId":"54",
+    "domainFunction":"RNA binding",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"373",
+    "domainId":"54",
+    "domainFunction":"enzyme binding",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"374",
+    "domainId":"54",
+    "domainFunction":"signaling receptor binding",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"375",
+    "domainId":"54",
+    "domainFunction":"protein domain specific binding",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"376",
+    "domainId":"54",
+    "domainFunction":"molecular function regulator",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"377",
+    "domainId":"54",
+    "domainFunction":"transcription regulator activity",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"378",
+    "domainId":"54",
+    "domainFunction":"identical protein binding",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"379",
+    "domainId":"54",
+    "domainFunction":"actin binding",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"380",
+    "domainId":"54",
+    "domainFunction":"lipid binding",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"381",
+    "domainId":"54",
+    "domainFunction":"transporter activity",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"382",
+    "domainId":"54",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"383",
+    "domainId":"54",
+    "domainFunction":"molecular adaptor activity",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"384",
+    "domainId":"54",
+    "domainFunction":"protein-macromolecule adaptor activity",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"385",
+    "domainId":"54",
+    "domainFunction":"DNA binding",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"386",
+    "domainId":"54",
+    "domainFunction":"cytoskeletal protein binding",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"387",
+    "domainId":"54",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"388",
+    "domainId":"54",
+    "domainFunction":"structural molecule activity",
+    "domainName":"8027279_1c" 
+  },
+  {
+    "Id":"389",
+    "domainId":"55",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"8067903_5w" 
+  },
+  {
+    "Id":"390",
+    "domainId":"55",
+    "domainFunction":"molecular function regulator",
+    "domainName":"8067903_5w" 
+  },
+  {
+    "Id":"391",
+    "domainId":"55",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"8067903_5w" 
+  },
+  {
+    "Id":"392",
+    "domainId":"55",
+    "domainFunction":"identical protein binding",
+    "domainName":"8067903_5w" 
+  },
+  {
+    "Id":"393",
+    "domainId":"55",
+    "domainFunction":"DNA binding",
+    "domainName":"8067903_5w" 
+  },
+  {
+    "Id":"394",
+    "domainId":"55",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"8067903_5w" 
+  },
+  {
+    "Id":"395",
+    "domainId":"55",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"8067903_5w" 
+  },
+  {
+    "Id":"396",
+    "domainId":"56",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2x7mA01" 
+  },
+  {
+    "Id":"397",
+    "domainId":"56",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"2x7mA01" 
+  },
+  {
+    "Id":"398",
+    "domainId":"56",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2x7mA01" 
+  },
+  {
+    "Id":"399",
+    "domainId":"56",
+    "domainFunction":"identical protein binding",
+    "domainName":"2x7mA01" 
+  },
+  {
+    "Id":"400",
+    "domainId":"56",
+    "domainFunction":"DNA binding",
+    "domainName":"2x7mA01" 
+  },
+  {
+    "Id":"401",
+    "domainId":"56",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2x7mA01" 
+  },
+  {
+    "Id":"402",
+    "domainId":"57",
+    "domainFunction":"enzyme binding",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"403",
+    "domainId":"57",
+    "domainFunction":"kinase binding",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"404",
+    "domainId":"57",
+    "domainFunction":"protein domain specific binding",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"405",
+    "domainId":"57",
+    "domainFunction":"enzyme regulator activity",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"406",
+    "domainId":"57",
+    "domainFunction":"molecular function regulator",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"407",
+    "domainId":"57",
+    "domainFunction":"transcription regulator activity",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"408",
+    "domainId":"57",
+    "domainFunction":"DNA-binding transcription factor activity",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"409",
+    "domainId":"57",
+    "domainFunction":"identical protein binding",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"410",
+    "domainId":"57",
+    "domainFunction":"ion transmembrane transporter activity",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"411",
+    "domainId":"57",
+    "domainFunction":"actin binding",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"412",
+    "domainId":"57",
+    "domainFunction":"lipid binding",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"413",
+    "domainId":"57",
+    "domainFunction":"transporter activity",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"414",
+    "domainId":"57",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"415",
+    "domainId":"57",
+    "domainFunction":"molecular adaptor activity",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"416",
+    "domainId":"57",
+    "domainFunction":"protein-macromolecule adaptor activity",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"417",
+    "domainId":"57",
+    "domainFunction":"DNA binding",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"418",
+    "domainId":"57",
+    "domainFunction":"cytoskeletal protein binding",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"419",
+    "domainId":"57",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"420",
+    "domainId":"57",
+    "domainFunction":"structural molecule activity",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"421",
+    "domainId":"57",
+    "domainFunction":"protein kinase binding",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"422",
+    "domainId":"57",
+    "domainFunction":"protein dimerization activity",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"423",
+    "domainId":"57",
+    "domainFunction":"transmembrane transporter activity",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"424",
+    "domainId":"57",
+    "domainFunction":"inorganic molecular entity transmembrane transporter activity",
+    "domainName":"1ifmA00" 
+  },
+  {
+    "Id":"425",
+    "domainId":"58",
+    "domainFunction":"RNA binding",
+    "domainName":"8066212_6e" 
+  },
+  {
+    "Id":"426",
+    "domainId":"58",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"8066212_6e" 
+  },
+  {
+    "Id":"427",
+    "domainId":"58",
+    "domainFunction":"molecular function regulator",
+    "domainName":"8066212_6e" 
+  },
+  {
+    "Id":"428",
+    "domainId":"58",
+    "domainFunction":"nucleoside-triphosphatase activity",
+    "domainName":"8066212_6e" 
+  },
+  {
+    "Id":"429",
+    "domainId":"58",
+    "domainFunction":"DNA binding",
+    "domainName":"8066212_6e" 
+  },
+  {
+    "Id":"430",
+    "domainId":"58",
+    "domainFunction":"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",
+    "domainName":"8066212_6e" 
+  },
+  {
+    "Id":"431",
+    "domainId":"58",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"8066212_6e" 
+  },
+  {
+    "Id":"432",
+    "domainId":"58",
+    "domainFunction":"pyrophosphatase activity",
+    "domainName":"8066212_6e" 
+  },
+  {
+    "Id":"433",
+    "domainId":"58",
+    "domainFunction":"hydrolase activity, acting on acid anhydrides",
+    "domainName":"8066212_6e" 
+  },
+  {
+    "Id":"434",
+    "domainId":"59",
+    "domainFunction":"endopeptidase activity",
+    "domainName":"8045187_5t" 
+  },
+  {
+    "Id":"435",
+    "domainId":"59",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"8045187_5t" 
+  },
+  {
+    "Id":"436",
+    "domainId":"59",
+    "domainFunction":"molecular function regulator",
+    "domainName":"8045187_5t" 
+  },
+  {
+    "Id":"437",
+    "domainId":"59",
+    "domainFunction":"peptidase activity",
+    "domainName":"8045187_5t" 
+  },
+  {
+    "Id":"438",
+    "domainId":"59",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"8045187_5t" 
+  },
+  {
+    "Id":"439",
+    "domainId":"59",
+    "domainFunction":"DNA binding",
+    "domainName":"8045187_5t" 
+  },
+  {
+    "Id":"440",
+    "domainId":"59",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"8045187_5t" 
+  },
+  {
+    "Id":"441",
+    "domainId":"60",
+    "domainFunction":"RNA binding",
+    "domainName":"4zqbA02" 
+  },
+  {
+    "Id":"442",
+    "domainId":"60",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"4zqbA02" 
+  },
+  {
+    "Id":"443",
+    "domainId":"60",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"4zqbA02" 
+  },
+  {
+    "Id":"444",
+    "domainId":"60",
+    "domainFunction":"identical protein binding",
+    "domainName":"4zqbA02" 
+  },
+  {
+    "Id":"445",
+    "domainId":"60",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"4zqbA02" 
+  },
+  {
+    "Id":"446",
+    "domainId":"60",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"4zqbA02" 
+  },
+  {
+    "Id":"447",
+    "domainId":"61",
+    "domainFunction":"RNA binding",
+    "domainName":"8024335_1u" 
+  },
+  {
+    "Id":"448",
+    "domainId":"61",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"8024335_1u" 
+  },
+  {
+    "Id":"449",
+    "domainId":"61",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"8024335_1u" 
+  },
+  {
+    "Id":"450",
+    "domainId":"61",
+    "domainFunction":"molecular function regulator",
+    "domainName":"8024335_1u" 
+  },
+  {
+    "Id":"451",
+    "domainId":"61",
+    "domainFunction":"identical protein binding",
+    "domainName":"8024335_1u" 
+  },
+  {
+    "Id":"452",
+    "domainId":"61",
+    "domainFunction":"DNA binding",
+    "domainName":"8024335_1u" 
+  },
+  {
+    "Id":"453",
+    "domainId":"61",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"8024335_1u" 
+  },
+  {
+    "Id":"454",
+    "domainId":"62",
+    "domainFunction":"protein kinase activity",
+    "domainName":"8057533_1h" 
+  },
+  {
+    "Id":"455",
+    "domainId":"62",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"8057533_1h" 
+  },
+  {
+    "Id":"456",
+    "domainId":"62",
+    "domainFunction":"phosphotransferase activity, alcohol group as acceptor",
+    "domainName":"8057533_1h" 
+  },
+  {
+    "Id":"457",
+    "domainId":"62",
+    "domainFunction":"hydrolase activity, acting on ester bonds",
+    "domainName":"8057533_1h" 
+  },
+  {
+    "Id":"458",
+    "domainId":"62",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"8057533_1h" 
+  },
+  {
+    "Id":"459",
+    "domainId":"62",
+    "domainFunction":"kinase activity",
+    "domainName":"8057533_1h" 
+  },
+  {
+    "Id":"460",
+    "domainId":"62",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"8057533_1h" 
+  },
+  {
+    "Id":"461",
+    "domainId":"63",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"8066229_6b" 
+  },
+  {
+    "Id":"462",
+    "domainId":"63",
+    "domainFunction":"lyase activity",
+    "domainName":"8066229_6b" 
+  },
+  {
+    "Id":"463",
+    "domainId":"63",
+    "domainFunction":"oxidoreductase activity, acting on CH-OH group of donors",
+    "domainName":"8066229_6b" 
+  },
+  {
+    "Id":"464",
+    "domainId":"63",
+    "domainFunction":"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",
+    "domainName":"8066229_6b" 
+  },
+  {
+    "Id":"465",
+    "domainId":"63",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"8066229_6b" 
+  },
+  {
+    "Id":"466",
+    "domainId":"64",
+    "domainFunction":"RNA binding",
+    "domainName":"2v7iA01" 
+  },
+  {
+    "Id":"467",
+    "domainId":"64",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"2v7iA01" 
+  },
+  {
+    "Id":"468",
+    "domainId":"64",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2v7iA01" 
+  },
+  {
+    "Id":"469",
+    "domainId":"64",
+    "domainFunction":"identical protein binding",
+    "domainName":"2v7iA01" 
+  },
+  {
+    "Id":"470",
+    "domainId":"64",
+    "domainFunction":"DNA binding",
+    "domainName":"2v7iA01" 
+  },
+  {
+    "Id":"471",
+    "domainId":"64",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2v7iA01" 
+  },
+  {
+    "Id":"472",
+    "domainId":"65",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"4m8sA00" 
+  },
+  {
+    "Id":"473",
+    "domainId":"65",
+    "domainFunction":"transferase activity, transferring acyl groups",
+    "domainName":"4m8sA00" 
+  },
+  {
+    "Id":"474",
+    "domainId":"65",
+    "domainFunction":"identical protein binding",
+    "domainName":"4m8sA00" 
+  },
+  {
+    "Id":"475",
+    "domainId":"65",
+    "domainFunction":"transferase activity, transferring acyl groups other than amino-acyl groups",
+    "domainName":"4m8sA00" 
+  },
+  {
+    "Id":"476",
+    "domainId":"65",
+    "domainFunction":"oxidoreductase activity, acting on CH-OH group of donors",
+    "domainName":"4m8sA00" 
+  },
+  {
+    "Id":"477",
+    "domainId":"65",
+    "domainFunction":"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",
+    "domainName":"4m8sA00" 
+  },
+  {
+    "Id":"478",
+    "domainId":"66",
+    "domainFunction":"RNA binding",
+    "domainName":"1gm5A01" 
+  },
+  {
+    "Id":"479",
+    "domainId":"66",
+    "domainFunction":"enzyme binding",
+    "domainName":"1gm5A01" 
+  },
+  {
+    "Id":"480",
+    "domainId":"66",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1gm5A01" 
+  },
+  {
+    "Id":"481",
+    "domainId":"66",
+    "domainFunction":"molecular function regulator",
+    "domainName":"1gm5A01" 
+  },
+  {
+    "Id":"482",
+    "domainId":"66",
+    "domainFunction":"identical protein binding",
+    "domainName":"1gm5A01" 
+  },
+  {
+    "Id":"483",
+    "domainId":"66",
+    "domainFunction":"DNA binding",
+    "domainName":"1gm5A01" 
+  },
+  {
+    "Id":"484",
+    "domainId":"66",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1gm5A01" 
+  },
+  {
+    "Id":"485",
+    "domainId":"67",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1sofA00" 
+  },
+  {
+    "Id":"486",
+    "domainId":"67",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"1sofA00" 
+  },
+  {
+    "Id":"487",
+    "domainId":"67",
+    "domainFunction":"molecular function regulator",
+    "domainName":"1sofA00" 
+  },
+  {
+    "Id":"488",
+    "domainId":"67",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"1sofA00" 
+  },
+  {
+    "Id":"489",
+    "domainId":"67",
+    "domainFunction":"identical protein binding",
+    "domainName":"1sofA00" 
+  },
+  {
+    "Id":"490",
+    "domainId":"67",
+    "domainFunction":"iron ion binding",
+    "domainName":"1sofA00" 
+  },
+  {
+    "Id":"491",
+    "domainId":"67",
+    "domainFunction":"calcium ion binding",
+    "domainName":"1sofA00" 
+  },
+  {
+    "Id":"492",
+    "domainId":"67",
+    "domainFunction":"cell adhesion molecule binding",
+    "domainName":"1sofA00" 
+  },
+  {
+    "Id":"493",
+    "domainId":"67",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"1sofA00" 
+  },
+  {
+    "Id":"494",
+    "domainId":"67",
+    "domainFunction":"cytoskeletal protein binding",
+    "domainName":"1sofA00" 
+  },
+  {
+    "Id":"495",
+    "domainId":"67",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1sofA00" 
+  },
+  {
+    "Id":"496",
+    "domainId":"68",
+    "domainFunction":"RNA binding",
+    "domainName":" " 
+  },
+  {
+    "Id":"497",
+    "domainId":"68",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"4kzsA03" 
+  },
+  {
+    "Id":"498",
+    "domainId":"68",
+    "domainFunction":"molecular function regulator",
+    "domainName":"4kzsA03" 
+  },
+  {
+    "Id":"499",
+    "domainId":"68",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"4kzsA03" 
+  },
+  {
+    "Id":"500",
+    "domainId":"68",
+    "domainFunction":"identical protein binding",
+    "domainName":"4kzsA03" 
+  },
+  {
+    "Id":"501",
+    "domainId":"68",
+    "domainFunction":"DNA binding",
+    "domainName":"4kzsA03" 
+  },
+  {
+    "Id":"502",
+    "domainId":"68",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"4kzsA03" 
+  },
+  {
+    "Id":"503",
+    "domainId":"69",
+    "domainFunction":"small molecule binding",
+    "domainName":"2fiwA00" 
+  },
+  {
+    "Id":"504",
+    "domainId":"69",
+    "domainFunction":"N-acetyltransferase activity",
+    "domainName":"2fiwA00" 
+  },
+  {
+    "Id":"505",
+    "domainId":"69",
+    "domainFunction":"N-acyltransferase activity",
+    "domainName":"2fiwA00" 
+  },
+  {
+    "Id":"506",
+    "domainId":"69",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2fiwA00" 
+  },
+  {
+    "Id":"507",
+    "domainId":"69",
+    "domainFunction":"transferase activity, transferring acyl groups",
+    "domainName":"2fiwA00" 
+  },
+  {
+    "Id":"508",
+    "domainId":"69",
+    "domainFunction":"acetyltransferase activity",
+    "domainName":"2fiwA00" 
+  },
+  {
+    "Id":"509",
+    "domainId":"69",
+    "domainFunction":"transferase activity, transferring acyl groups other than amino-acyl groups",
+    "domainName":"2fiwA00" 
+  },
+  {
+    "Id":"510",
+    "domainId":"70",
+    "domainFunction":"electron transfer activity",
+    "domainName":"1fdqA00" 
+  },
+  {
+    "Id":"511",
+    "domainId":"70",
+    "domainFunction":"small molecule binding",
+    "domainName":"1fdqA00" 
+  },
+  {
+    "Id":"512",
+    "domainId":"70",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1fdqA00" 
+  },
+  {
+    "Id":"513",
+    "domainId":"70",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"1fdqA00" 
+  },
+  {
+    "Id":"514",
+    "domainId":"70",
+    "domainFunction":"tetrapyrrole binding",
+    "domainName":"1fdqA00" 
+  },
+  {
+    "Id":"515",
+    "domainId":"70",
+    "domainFunction":"heme binding",
+    "domainName":"1fdqA00" 
+  },
+  {
+    "Id":"516",
+    "domainId":"71",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2gmhA02" 
+  },
+  {
+    "Id":"517",
+    "domainId":"71",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2gmhA02" 
+  },
+  {
+    "Id":"518",
+    "domainId":"72",
+    "domainFunction":"enzyme binding",
+    "domainName":"2yweA04" 
+  },
+  {
+    "Id":"519",
+    "domainId":"72",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2yweA04" 
+  },
+  {
+    "Id":"520",
+    "domainId":"72",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2yweA04" 
+  },
+  {
+    "Id":"521",
+    "domainId":"72",
+    "domainFunction":"identical protein binding",
+    "domainName":"2yweA04" 
+  },
+  {
+    "Id":"522",
+    "domainId":"72",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"2yweA04" 
+  },
+  {
+    "Id":"523",
+    "domainId":"72",
+    "domainFunction":"DNA binding",
+    "domainName":"2yweA04" 
+  },
+  {
+    "Id":"524",
+    "domainId":"72",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2yweA04" 
+  },
+  {
+    "Id":"525",
+    "domainId":"73",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"4mm0A00" 
+  },
+  {
+    "Id":"526",
+    "domainId":"73",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"4mm0A00" 
+  },
+  {
+    "Id":"527",
+    "domainId":"73",
+    "domainFunction":"iron ion binding",
+    "domainName":"4mm0A00" 
+  },
+  {
+    "Id":"528",
+    "domainId":"73",
+    "domainFunction":"tetrapyrrole binding",
+    "domainName":"4mm0A00" 
+  },
+  {
+    "Id":"529",
+    "domainId":"73",
+    "domainFunction":"heme binding",
+    "domainName":"4mm0A00" 
+  },
+  {
+    "Id":"530",
+    "domainId":"73",
+    "domainFunction":"oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen",
+    "domainName":"4mm0A00" 
+  },
+  {
+    "Id":"531",
+    "domainId":"73",
+    "domainFunction":"monooxygenase activity",
+    "domainName":"4mm0A00" 
+  },
+  {
+    "Id":"532",
+    "domainId":"74",
+    "domainFunction":"RNA binding",
+    "domainName":"2kn1A00" 
+  },
+  {
+    "Id":"533",
+    "domainId":"74",
+    "domainFunction":"enzyme binding",
+    "domainName":"2kn1A00" 
+  },
+  {
+    "Id":"534",
+    "domainId":"74",
+    "domainFunction":"signaling receptor binding",
+    "domainName":"2kn1A00" 
+  },
+  {
+    "Id":"535",
+    "domainId":"74",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2kn1A00" 
+  },
+  {
+    "Id":"536",
+    "domainId":"74",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2kn1A00" 
+  },
+  {
+    "Id":"537",
+    "domainId":"74",
+    "domainFunction":"identical protein binding",
+    "domainName":"2kn1A00" 
+  },
+  {
+    "Id":"538",
+    "domainId":"74",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"2kn1A00" 
+  },
+  {
+    "Id":"539",
+    "domainId":"74",
+    "domainFunction":"DNA binding",
+    "domainName":"2kn1A00" 
+  },
+  {
+    "Id":"540",
+    "domainId":"74",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2kn1A00" 
+  },
+  {
+    "Id":"541",
+    "domainId":"74",
+    "domainFunction":"structural molecule activity",
+    "domainName":"2kn1A00" 
+  },
+  {
+    "Id":"542",
+    "domainId":"75",
+    "domainFunction":"RNA binding",
+    "domainName":"2hpvA00" 
+  },
+  {
+    "Id":"543",
+    "domainId":"75",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2hpvA00" 
+  },
+  {
+    "Id":"544",
+    "domainId":"75",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2hpvA00" 
+  },
+  {
+    "Id":"545",
+    "domainId":"75",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2hpvA00" 
+  },
+  {
+    "Id":"546",
+    "domainId":"75",
+    "domainFunction":"identical protein binding",
+    "domainName":"2hpvA00" 
+  },
+  {
+    "Id":"547",
+    "domainId":"75",
+    "domainFunction":"DNA binding",
+    "domainName":"2hpvA00" 
+  },
+  {
+    "Id":"548",
+    "domainId":"75",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2hpvA00" 
+  },
+  {
+    "Id":"549",
+    "domainId":"76",
+    "domainFunction":"RNA binding",
+    "domainName":"1m7vA03" 
+  },
+  {
+    "Id":"550",
+    "domainId":"76",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1m7vA03" 
+  },
+  {
+    "Id":"551",
+    "domainId":"76",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"1m7vA03" 
+  },
+  {
+    "Id":"552",
+    "domainId":"76",
+    "domainFunction":"peptidase activity",
+    "domainName":"1m7vA03" 
+  },
+  {
+    "Id":"553",
+    "domainId":"76",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"1m7vA03" 
+  },
+  {
+    "Id":"554",
+    "domainId":"76",
+    "domainFunction":"identical protein binding",
+    "domainName":"1m7vA03" 
+  },
+  {
+    "Id":"555",
+    "domainId":"76",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1m7vA03" 
+  },
+  {
+    "Id":"556",
+    "domainId":"76",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"1m7vA03 " 
+  },
+  {
+    "Id":"557",
+    "domainId":"77",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3hwkA02" 
+  },
+  {
+    "Id":"558",
+    "domainId":"77",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3hwkA02" 
+  },
+  {
+    "Id":"559",
+    "domainId":"77",
+    "domainFunction":"oxidoreductase activity, acting on CH-OH group of donors",
+    "domainName":"3hwkA02" 
+  },
+  {
+    "Id":"560",
+    "domainId":"77",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3hwkA02" 
+  },
+  {
+    "Id":"561",
+    "domainId":"77",
+    "domainFunction":"oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor",
+    "domainName":"3hwkA02" 
+  },
+  {
+    "Id":"562",
+    "domainId":"77",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"3hwkA02" 
+  },
+  {
+    "Id":"563",
+    "domainId":"78",
+    "domainFunction":"molecular transducer activity",
+    "domainName":"4xpwA00" 
+  },
+  {
+    "Id":"564",
+    "domainId":"78",
+    "domainFunction":"signaling receptor binding",
+    "domainName":"4xpwA00" 
+  },
+  {
+    "Id":"565",
+    "domainId":"78",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"4xpwA00" 
+  },
+  {
+    "Id":"566",
+    "domainId":"78",
+    "domainFunction":"molecular function regulator",
+    "domainName":"4xpwA00" 
+  },
+  {
+    "Id":"567",
+    "domainId":"78",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"4xpwA00" 
+  },
+  {
+    "Id":"568",
+    "domainId":"78",
+    "domainFunction":"identical protein binding",
+    "domainName":"4xpwA00" 
+  },
+  {
+    "Id":"569",
+    "domainId":"78",
+    "domainFunction":"DNA binding",
+    "domainName":"4xpwA00" 
+  },
+  {
+    "Id":"570",
+    "domainId":"78",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"4xpwA00" 
+  },
+  {
+    "Id":"571",
+    "domainId":"78",
+    "domainFunction":"signaling receptor activity",
+    "domainName":"4xpwA00" 
+  },
+  {
+    "Id":"572",
+    "domainId":"79",
+    "domainFunction":"RNA binding",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"573",
+    "domainId":"79",
+    "domainFunction":"nucleotidyltransferase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"574",
+    "domainId":"79",
+    "domainFunction":"endopeptidase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"575",
+    "domainId":"79",
+    "domainFunction":"ion channel activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"576",
+    "domainId":"79",
+    "domainFunction":"passive transmembrane transporter activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"577",
+    "domainId":"79",
+    "domainFunction":"molecular function regulator",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"578",
+    "domainId":"79",
+    "domainFunction":"peptidase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"579",
+    "domainId":"79",
+    "domainFunction":"nucleoside-triphosphatase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"580",
+    "domainId":"79",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"581",
+    "domainId":"79",
+    "domainFunction":"transcription regulator activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"582",
+    "domainId":"79",
+    "domainFunction":"DNA-binding transcription factor activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"583",
+    "domainId":"79",
+    "domainFunction":"identical protein binding",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"584",
+    "domainId":"79",
+    "domainFunction":"catalytic activity, acting on RNA",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"585",
+    "domainId":"79",
+    "domainFunction":"RNA polymerase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"586",
+    "domainId":"79",
+    "domainFunction":"ion transmembrane transporter activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"587",
+    "domainId":"79",
+    "domainFunction":"channel activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"588",
+    "domainId":"79",
+    "domainFunction":"transporter activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"589",
+    "domainId":"79",
+    "domainFunction":"5'-3' RNA polymerase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"590",
+    "domainId":"79",
+    "domainFunction":"ATPase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"591",
+    "domainId":"79",
+    "domainFunction":"DNA binding",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"592",
+    "domainId":"79",
+    "domainFunction":"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"593",
+    "domainId":"79",
+    "domainFunction":"RNA helicase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"594",
+    "domainId":"79",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"595",
+    "domainId":"79",
+    "domainFunction":"cysteine-type endopeptidase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"596",
+    "domainId":"79",
+    "domainFunction":"pyrophosphatase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"597",
+    "domainId":"79",
+    "domainFunction":"structural molecule activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"598",
+    "domainId":"79",
+    "domainFunction":"helicase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"599",
+    "domainId":"79",
+    "domainFunction":"cysteine-type peptidase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"600",
+    "domainId":"79",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"601",
+    "domainId":"79",
+    "domainFunction":"transmembrane transporter activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"602",
+    "domainId":"79",
+    "domainFunction":"hydrolase activity, acting on acid anhydrides",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"603",
+    "domainId":"79",
+    "domainFunction":"inorganic molecular entity transmembrane transporter activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"604",
+    "domainId":"79",
+    "domainFunction":"RNA-directed 5'-3' RNA polymerase activity",
+    "domainName":"1hi7A00" 
+  },
+  {
+    "Id":"605",
+    "domainId":"80",
+    "domainFunction":"hydrolase activity, acting on glycosyl bonds",
+    "domainName":"5i45A00" 
+  },
+  {
+    "Id":"606",
+    "domainId":"80",
+    "domainFunction":"hydrolase activity, hydrolyzing O-glycosyl compounds",
+    "domainName":"5i45A00" 
+  },
+  {
+    "Id":"607",
+    "domainId":"81",
+    "domainFunction":"nucleotidyltransferase activity",
+    "domainName":"1z84B01" 
+  },
+  {
+    "Id":"608",
+    "domainId":"81",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1z84B01" 
+  },
+  {
+    "Id":"609",
+    "domainId":"81",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"1z84B01" 
+  },
+  {
+    "Id":"610",
+    "domainId":"81",
+    "domainFunction":"identical protein binding",
+    "domainName":"1z84B01" 
+  },
+  {
+    "Id":"611",
+    "domainId":"81",
+    "domainFunction":"single-stranded DNA binding",
+    "domainName":"1z84B01" 
+  },
+  {
+    "Id":"612",
+    "domainId":"81",
+    "domainFunction":"DNA binding",
+    "domainName":"1z84B01" 
+  },
+  {
+    "Id":"613",
+    "domainId":"81",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1z84B01" 
+  },
+  {
+    "Id":"614",
+    "domainId":"81",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"1z84B01" 
+  },
+  {
+    "Id":"615",
+    "domainId":"82",
+    "domainFunction":"RNA binding",
+    "domainName":"3bjuA02" 
+  },
+  {
+    "Id":"616",
+    "domainId":"82",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"3bjuA02" 
+  },
+  {
+    "Id":"617",
+    "domainId":"82",
+    "domainFunction":"molecular function regulator",
+    "domainName":"3bjuA02" 
+  },
+  {
+    "Id":"618",
+    "domainId":"82",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3bjuA02" 
+  },
+  {
+    "Id":"619",
+    "domainId":"82",
+    "domainFunction":"identical protein binding",
+    "domainName":"3bjuA02" 
+  },
+  {
+    "Id":"620",
+    "domainId":"82",
+    "domainFunction":"transporter activity",
+    "domainName":"3bjuA02" 
+  },
+  {
+    "Id":"621",
+    "domainId":"82",
+    "domainFunction":"DNA binding",
+    "domainName":"3bjuA02" 
+  },
+  {
+    "Id":"622",
+    "domainId":"82",
+    "domainFunction":"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",
+    "domainName":"3bjuA02" 
+  },
+  {
+    "Id":"623",
+    "domainId":"82",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3bjuA02" 
+  },
+  {
+    "Id":"624",
+    "domainId":"82",
+    "domainFunction":"pyrophosphatase activity",
+    "domainName":"3bjuA02" 
+  },
+  {
+    "Id":"625",
+    "domainId":"82",
+    "domainFunction":"hydrolase activity, acting on acid anhydrides",
+    "domainName":"3bjuA02" 
+  },
+  {
+    "Id":"626",
+    "domainId":"83",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3gyoA01" 
+  },
+  {
+    "Id":"627",
+    "domainId":"83",
+    "domainFunction":"carbohydrate binding",
+    "domainName":"3gyoA01" 
+  },
+  {
+    "Id":"628",
+    "domainId":"83",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3gyoA01" 
+  },
+  {
+    "Id":"629",
+    "domainId":"84",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"8089253_6n" 
+  },
+  {
+    "Id":"630",
+    "domainId":"84",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"8089253_6n" 
+  },
+  {
+    "Id":"631",
+    "domainId":"84",
+    "domainFunction":"identical protein binding",
+    "domainName":"8089253_6n" 
+  },
+  {
+    "Id":"632",
+    "domainId":"84",
+    "domainFunction":"DNA binding",
+    "domainName":"8089253_6n" 
+  },
+  {
+    "Id":"633",
+    "domainId":"84",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"8089253_6n" 
+  },
+  {
+    "Id":"634",
+    "domainId":"85",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1cd5A00" 
+  },
+  {
+    "Id":"635",
+    "domainId":"85",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"1cd5A00" 
+  },
+  {
+    "Id":"636",
+    "domainId":"85",
+    "domainFunction":"lyase activity",
+    "domainName":"1cd5A00" 
+  },
+  {
+    "Id":"637",
+    "domainId":"85",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1cd5A00" 
+  },
+  {
+    "Id":"638",
+    "domainId":"86",
+    "domainFunction":"RNA binding",
+    "domainName":" " 
+  },
+  {
+    "Id":"639",
+    "domainId":"86",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"1uc8A02" 
+  },
+  {
+    "Id":"640",
+    "domainId":"86",
+    "domainFunction":"identical protein binding",
+    "domainName":"1uc8A02" 
+  },
+  {
+    "Id":"641",
+    "domainId":"86",
+    "domainFunction":"DNA binding",
+    "domainName":"1uc8A02" 
+  },
+  {
+    "Id":"642",
+    "domainId":"86",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"1uc8A02" 
+  },
+  {
+    "Id":"643",
+    "domainId":"87",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"8031517_7a" 
+  },
+  {
+    "Id":"644",
+    "domainId":"87",
+    "domainFunction":"molecular function regulator",
+    "domainName":"8031517_7a" 
+  },
+  {
+    "Id":"645",
+    "domainId":"87",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"8031517_7a" 
+  },
+  {
+    "Id":"646",
+    "domainId":"87",
+    "domainFunction":"transferase activity, transferring acyl groups",
+    "domainName":"8031517_7a" 
+  },
+  {
+    "Id":"647",
+    "domainId":"88",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3ffyA00" 
+  },
+  {
+    "Id":"648",
+    "domainId":"88",
+    "domainFunction":"hydrolase activity, acting on ester bonds",
+    "domainName":"3ffyA00" 
+  },
+  {
+    "Id":"649",
+    "domainId":"88",
+    "domainFunction":"molecular function regulator",
+    "domainName":"3ffyA00" 
+  },
+  {
+    "Id":"650",
+    "domainId":"88",
+    "domainFunction":"identical protein binding",
+    "domainName":"3ffyA00" 
+  },
+  {
+    "Id":"651",
+    "domainId":"88",
+    "domainFunction":"DNA binding",
+    "domainName":"3ffyA00" 
+  },
+  {
+    "Id":"652",
+    "domainId":"88",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3ffyA00" 
+  },
+  {
+    "Id":"653",
+    "domainId":"89",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3r6mA01" 
+  },
+  {
+    "Id":"654",
+    "domainId":"89",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"3r6mA01" 
+  },
+  {
+    "Id":"655",
+    "domainId":"89",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3r6mA01" 
+  },
+  {
+    "Id":"656",
+    "domainId":"89",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3r6mA01" 
+  },
+  {
+    "Id":"657",
+    "domainId":"90",
+    "domainFunction":"RNA binding",
+    "domainName":"5h3jA01" 
+  },
+  {
+    "Id":"658",
+    "domainId":"90",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"5h3jA01" 
+  },
+  {
+    "Id":"659",
+    "domainId":"90",
+    "domainFunction":"molecular function regulator",
+    "domainName":"5h3jA01" 
+  },
+  {
+    "Id":"660",
+    "domainId":"90",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"5h3jA01" 
+  },
+  {
+    "Id":"661",
+    "domainId":"90",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"5h3jA01" 
+  },
+  {
+    "Id":"662",
+    "domainId":"90",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"5h3jA01" 
+  },
+  {
+    "Id":"663",
+    "domainId":"91",
+    "domainFunction":"RNA binding",
+    "domainName":"2vhvA02" 
+  },
+  {
+    "Id":"664",
+    "domainId":"91",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2vhvA02" 
+  },
+  {
+    "Id":"665",
+    "domainId":"91",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2vhvA02" 
+  },
+  {
+    "Id":"666",
+    "domainId":"91",
+    "domainFunction":"identical protein binding",
+    "domainName":"2vhvA02" 
+  },
+  {
+    "Id":"667",
+    "domainId":"91",
+    "domainFunction":"DNA binding",
+    "domainName":"2vhvA02" 
+  },
+  {
+    "Id":"668",
+    "domainId":"91",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2vhvA02" 
+  },
+  {
+    "Id":"669",
+    "domainId":"92",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2yqzA01" 
+  },
+  {
+    "Id":"670",
+    "domainId":"92",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"2yqzA01" 
+  },
+  {
+    "Id":"671",
+    "domainId":"92",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2yqzA01" 
+  },
+  {
+    "Id":"672",
+    "domainId":"92",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"2yqzA01" 
+  },
+  {
+    "Id":"673",
+    "domainId":"93",
+    "domainFunction":"enzyme binding",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"674",
+    "domainId":"93",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"675",
+    "domainId":"93",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"676",
+    "domainId":"93",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"677",
+    "domainId":"93",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"678",
+    "domainId":"93",
+    "domainFunction":"transcription regulator activity",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"679",
+    "domainId":"93",
+    "domainFunction":"identical protein binding",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"680",
+    "domainId":"93",
+    "domainFunction":"transporter activity",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"681",
+    "domainId":"93",
+    "domainFunction":"protein-containing complex binding",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"682",
+    "domainId":"93",
+    "domainFunction":"DNA binding",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"683",
+    "domainId":"93",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"684",
+    "domainId":"93",
+    "domainFunction":"transmembrane transporter activity",
+    "domainName":"2eroA01" 
+  },
+  {
+    "Id":"685",
+    "domainId":"94",
+    "domainFunction":"RNA binding",
+    "domainName":"4p2oC01" 
+  },
+  {
+    "Id":"686",
+    "domainId":"94",
+    "domainFunction":"molecular transducer activity",
+    "domainName":"4p2oC01" 
+  },
+  {
+    "Id":"687",
+    "domainId":"94",
+    "domainFunction":"enzyme binding",
+    "domainName":"4p2oC01" 
+  },
+  {
+    "Id":"688",
+    "domainId":"94",
+    "domainFunction":"signaling receptor binding",
+    "domainName":"4p2oC01" 
+  },
+  {
+    "Id":"689",
+    "domainId":"94",
+    "domainFunction":"molecular function regulator",
+    "domainName":"4p2oC01" 
+  },
+  {
+    "Id":"690",
+    "domainId":"94",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"4p2oC01" 
+  },
+  {
+    "Id":"691",
+    "domainId":"94",
+    "domainFunction":"identical protein binding",
+    "domainName":"4p2oC01" 
+  },
+  {
+    "Id":"692",
+    "domainId":"94",
+    "domainFunction":"DNA binding",
+    "domainName":"4p2oC01" 
+  },
+  {
+    "Id":"693",
+    "domainId":"94",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"4p2oC01" 
+  },
+  {
+    "Id":"694",
+    "domainId":"94",
+    "domainFunction":"signaling receptor activity",
+    "domainName":"4p2oC01" 
+  },
+  {
+    "Id":"695",
+    "domainId":"95",
+    "domainFunction":"enzyme binding",
+    "domainName":" " 
+  },
+  {
+    "Id":"696",
+    "domainId":"95",
+    "domainFunction":"signaling receptor binding",
+    "domainName":"3mwmA02" 
+  },
+  {
+    "Id":"697",
+    "domainId":"95",
+    "domainFunction":"molecular function regulator",
+    "domainName":"3mwmA02" 
+  },
+  {
+    "Id":"698",
+    "domainId":"95",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3mwmA02" 
+  },
+  {
+    "Id":"699",
+    "domainId":"95",
+    "domainFunction":"identical protein binding",
+    "domainName":"3mwmA02" 
+  },
+  {
+    "Id":"700",
+    "domainId":"95",
+    "domainFunction":"transporter activity",
+    "domainName":"3mwmA02" 
+  },
+  {
+    "Id":"701",
+    "domainId":"95",
+    "domainFunction":"DNA binding",
+    "domainName":"3mwmA02" 
+  },
+  {
+    "Id":"702",
+    "domainId":"95",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3mwmA02" 
+  },
+  {
+    "Id":"703",
+    "domainId":"96",
+    "domainFunction":"electron transfer activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"704",
+    "domainId":"96",
+    "domainFunction":"enzyme binding",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"705",
+    "domainId":"96",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"706",
+    "domainId":"96",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"707",
+    "domainId":"96",
+    "domainFunction":"ligase activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"708",
+    "domainId":"96",
+    "domainFunction":"identical protein binding",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"709",
+    "domainId":"96",
+    "domainFunction":"inorganic cation transmembrane transporter activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"710",
+    "domainId":"96",
+    "domainFunction":"ion transmembrane transporter activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"711",
+    "domainId":"96",
+    "domainFunction":"lipid binding",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"712",
+    "domainId":"96",
+    "domainFunction":"transporter activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"713",
+    "domainId":"96",
+    "domainFunction":"anion binding",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"714",
+    "domainId":"96",
+    "domainFunction":"DNA binding",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"715",
+    "domainId":"96",
+    "domainFunction":"proton transmembrane transporter activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"716",
+    "domainId":"96",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"717",
+    "domainId":"96",
+    "domainFunction":"monovalent inorganic cation transmembrane transporter activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"718",
+    "domainId":"96",
+    "domainFunction":"structural molecule activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"719",
+    "domainId":"96",
+    "domainFunction":"transmembrane transporter activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"720",
+    "domainId":"96",
+    "domainFunction":"cation transmembrane transporter activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"721",
+    "domainId":"96",
+    "domainFunction":"inorganic molecular entity transmembrane transporter activity",
+    "domainName":"2wpdJ00" 
+  },
+  {
+    "Id":"722",
+    "domainId":"97",
+    "domainFunction":"RNA binding",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"723",
+    "domainId":"97",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"724",
+    "domainId":"97",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"725",
+    "domainId":"97",
+    "domainFunction":"molecular function regulator",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"726",
+    "domainId":"97",
+    "domainFunction":"peptidase activity",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"727",
+    "domainId":"97",
+    "domainFunction":"nucleoside-triphosphatase activity",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"728",
+    "domainId":"97",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"729",
+    "domainId":"97",
+    "domainFunction":"identical protein binding",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"730",
+    "domainId":"97",
+    "domainFunction":"DNA binding",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"731",
+    "domainId":"97",
+    "domainFunction":"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"732",
+    "domainId":"97",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"733",
+    "domainId":"97",
+    "domainFunction":"pyrophosphatase activity",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"734",
+    "domainId":"97",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"735",
+    "domainId":"97",
+    "domainFunction":"hydrolase activity, acting on acid anhydrides",
+    "domainName":"3fn9A02" 
+  },
+  {
+    "Id":"736",
+    "domainId":"98",
+    "domainFunction":"RNA binding",
+    "domainName":"2on7A01" 
+  },
+  {
+    "Id":"737",
+    "domainId":"98",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"2on7A01" 
+  },
+  {
+    "Id":"738",
+    "domainId":"98",
+    "domainFunction":"hydrolase activity, acting on ester bonds",
+    "domainName":"2on7A01" 
+  },
+  {
+    "Id":"739",
+    "domainId":"98",
+    "domainFunction":"transition metal ion binding",
+    "domainName":"2on7A01" 
+  },
+  {
+    "Id":"740",
+    "domainId":"98",
+    "domainFunction":"molecular function regulator",
+    "domainName":"2on7A01" 
+  },
+  {
+    "Id":"741",
+    "domainId":"98",
+    "domainFunction":"catalytic activity, acting on a protein",
+    "domainName":"2on7A01" 
+  },
+  {
+    "Id":"742",
+    "domainId":"98",
+    "domainFunction":"nucleic acid binding",
+    "domainName":"2on7A01" 
+  },
+  {
+    "Id":"743",
+    "domainId":"98",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"2on7A01" 
+  },
+  {
+    "Id":"744",
+    "domainId":"99",
+    "domainFunction":"small molecule binding",
+    "domainName":"4o5vA0300" 
+  },
+  {
+    "Id":"745",
+    "domainId":"99",
+    "domainFunction":"vitamin B6 binding",
+    "domainName":"4o5vA0300" 
+  },
+  {
+    "Id":"746",
+    "domainId":"99",
+    "domainFunction":"oxidoreductase activity",
+    "domainName":"4o5vA0300" 
+  },
+  {
+    "Id":"747",
+    "domainId":"99",
+    "domainFunction":"ligase activity",
+    "domainName":"4o5vA0300" 
+  },
+  {
+    "Id":"748",
+    "domainId":"99",
+    "domainFunction":"pyridoxal phosphate binding",
+    "domainName":"4o5vA0300" 
+  },
+  {
+    "Id":"749",
+    "domainId":"99",
+    "domainFunction":"vitamin binding",
+    "domainName":"4o5vA0300" 
+  },
+  {
+    "Id":"750",
+    "domainId":"99",
+    "domainFunction":"anion binding",
+    "domainName":"4o5vA0300" 
+  },
+  {
+    "Id":"751",
+    "domainId":"99",
+    "domainFunction":"kinase activity",
+    "domainName":"4o5vA0300" 
+  },
+  {
+    "Id":"752",
+    "domainId":"99",
+    "domainFunction":"transferase activity, transferring phosphorus-containing groups",
+    "domainName":"4o5vA0300" 
+  }
+]
